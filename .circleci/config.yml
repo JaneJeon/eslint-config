@@ -14,7 +14,6 @@ aliases:
 
 orbs:
   node: circleci/node@4
-  slack: circleci/slack@4
 
 jobs:
   lint:
